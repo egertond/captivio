@@ -1,0 +1,16 @@
+# about us
+aboutUs.name=captivio
+aboutUs.email=info@captiv.io
+aboutUs.number=+353-1-234-5678
+aboutUs.url=http://www.captiv.io
+aboutUs.address.line1=48 Mount Street Upper
+aboutUs.address.line2=
+aboutUs.address.county=Dublin
+aboutUs.address.country=Ireland
+
+# contact us
+contactUs.subject=captivio Contact Us request
+contactUs.sendto=info@captiv.io
+contactUs.message.template=<html><body><p><b>Name:</b> {0}</p><p><b>Address:</b> {1}</p><p><b>Email:</b> {2}</p><p><b>---Message---</b></p>{3}</body></html>
+contactUs.error=Oops, we received your request, but there was an error processing it!
+contactUs.success=Your request has been sent, someone will get back to you as soon as possible.
